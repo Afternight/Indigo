@@ -1,0 +1,77 @@
+{
+  "K" : 3,
+  "TargetAttribute" : "TargetAttributeName",
+  "Comparers" : {
+    "ComparerName":{
+      "Name":"ComparerName",
+      "Encoding":{
+        "type" : 0,
+        "otherType" : 1,
+      }
+    }
+  },
+  "Targets" : [
+    {
+    "Values": {
+      "NormalizedLosses": 164,
+      "Make": "Audi",
+      "FuelType": "Gas",
+      "Aspiration": "Std",
+      "NumOfDoors": "Four",
+      "BodyStyle": "Sedan",
+      "DriveWheels": "Fwd",
+      "EngineLocation": "Front",
+      "WheelBase": 99.8,
+      "Length": 176.6,
+      "Width": 66.2,
+      "Height": 54.3,
+      "CurbWeight": 2337,
+      "EngineType": "Ohc",
+      "NumOfCylinders": "Four"
+      }
+    }
+  ],
+  "Data" : [
+    {
+      "Values": {
+        "NormalizedLosses": 164,
+        "Make": "Audi",
+        "FuelType": "Gas",
+        "Aspiration": "Std",
+        "NumOfDoors": "Four",
+        "BodyStyle": "Sedan",
+        "DriveWheels": "Fwd",
+        "EngineLocation": "Front",
+        "WheelBase": 99.8,
+        "Length": 176.6,
+        "Width": 66.2,
+        "Height": 54.3,
+        "CurbWeight": 2337,
+        "EngineType": "Ohc",
+        "NumOfCylinders": "Four"
+      }
+    },
+    {
+      "Values": {
+        "NormalizedLosses": 164,
+        "Make": "Audi",
+        "FuelType": "Gas",
+        "Aspiration": "Std",
+        "NumOfDoors": "Four",
+        "BodyStyle": "Sedan",
+        "DriveWheels": "Fwd",
+        "EngineLocation": "Front",
+        "WheelBase": 99.8,
+        "Length": 176.6,
+        "Width": 66.2,
+        "Height": 54.3,
+        "CurbWeight": 2337,
+        "EngineType": "Ohc",
+        "NumOfCylinders": "Four"
+      }
+    }
+  ]
+}
+
+
+
